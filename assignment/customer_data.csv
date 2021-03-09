@@ -1,0 +1,21 @@
+day,id,name,age,salary,purchase_status
+01/01/2020,1,harry,23,"75,000",purchased
+02/01/2020,2,jim,12,"2,300",not-purchased
+03/01/2020,3,tom,34,"18,000 dollars",not-purchased
+04/01/2020,4,sam,50,"20,000 inr",purchased
+07/01/2020,NaN,samuel,NaN,"23,000",not-purchased
+08/01/2020,6,craig,NaN,"45,000",
+09/01/2020,7,,32,65000,
+10/01/2020,8,emily,30,2000 inr,purchased
+11/01/2020,9,derek,25,5000 dollar,purchased
+12/01/2020,10,colton,,NaN,
+13/01/2020,11,rachael,NaN,"89,000",not-purchased
+14/01/2020,,,,,
+15/01/2020,,stacey,56,NaN,not-purchased
+16/01/2020,14,griffan,20,"17,000",purchased
+17/01/2020,15,ray,18,"52,000 dollars",purchased
+18/01/2020,,,,,
+19/01/2020,NaN,steve,17,3400,not-purchased
+20/01/2020,NaN,cris,22,700000,purchased
+21/01/2020,19,jennifer,48,760000,purchased
+24/01/2020,20,sophia,,10000,not-purchased
